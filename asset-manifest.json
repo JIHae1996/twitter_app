@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/twitter_app/static/js/main.fbd2e41f.js",
+    "index.html": "/twitter_app/index.html",
+    "main.fbd2e41f.js.map": "/twitter_app/static/js/main.fbd2e41f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fbd2e41f.js"
+  ]
+}
